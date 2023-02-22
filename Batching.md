@@ -1,0 +1,1 @@
+[Оптимизация игры на Unity. Batching](https://www.youtube.com/watch?v=MBvw71HWLtw&ab_channel=NightTrainCode)
