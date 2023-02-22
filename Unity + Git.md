@@ -2,6 +2,7 @@
 [Git ignor Ref](https://github.com/github/gitignore/blob/main/Unity.gitignore)
 [Git LFS](https://www.atlassian.com/git/tutorials/git-lfs)
 [YouTube про git  в команде](https://www.youtube.com/watch?v=f9U53MllK10&ab_channel=EmeraldPowder)
+[About Git Flow](https://www.youtube.com/watch?v=umiT0yIsSrc&t=180s&ab_channel=PurpleSchool%7CAntonLarichev)
 
 
 
