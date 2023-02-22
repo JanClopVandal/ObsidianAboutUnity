@@ -3,6 +3,9 @@
 [Git LFS](https://www.atlassian.com/git/tutorials/git-lfs)
 [YouTube про git  в команде](https://www.youtube.com/watch?v=f9U53MllK10&ab_channel=EmeraldPowder)
 [About Git Flow](https://www.youtube.com/watch?v=umiT0yIsSrc&t=180s&ab_channel=PurpleSchool%7CAntonLarichev)
+[Git merge](https://www.youtube.com/watch?v=PXK1hIifpWU&ab_channel=JavaScript.ru)
+[GIT: Merge или Rebase?](https://www.youtube.com/watch?v=d5rvy5XPyzk&ab_channel=Front-endScience%D1%96%D0%B7%D0%A1%D0%B5%D1%80%D0%B3%D1%96%D1%94%D0%BC%D0%9F%D1%83%D0%B7%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D0%BC)
+[Самые распространенные ошибки в работе с git.](https://www.youtube.com/watch?v=2aTc37XwSj0&ab_channel=Front-endScience%D1%96%D0%B7%D0%A1%D0%B5%D1%80%D0%B3%D1%96%D1%94%D0%BC%D0%9F%D1%83%D0%B7%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D0%BC)
 
 
 
