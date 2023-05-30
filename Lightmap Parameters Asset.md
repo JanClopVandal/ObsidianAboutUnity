@@ -1,4 +1,5 @@
 [Unity Wiki](https://docs.unity3d.com/Manual/class-LightmapParameters.html)
+[Youtube Tutor](https://www.youtube.com/watch?v=6l1R_8_HhvI&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%A1%D0%92%D0%95%D0%A2%D0%98%D0%B3%D1%80%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9)
 
 
 
